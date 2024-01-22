@@ -10,8 +10,9 @@ JAWABAN
 
 2. Contoh Struktur Top Level komputer dan jelaskan masing-masing fungsi?
    ![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/676b6f86-86e6-4a28-ab92-67fa6fb10f84)
+   
  Fungsi Struktur Top Level
-Ada 4 Struktur Utama Internal Komputer
+ Ada 4 Struktur Utama Internal Komputer
 - Central Processing Unit (CPU): Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
 - Memori Utama: Menyimpan Data
 - I/O: memindahkan data antara komputer dengan lingkungan luarnya.
