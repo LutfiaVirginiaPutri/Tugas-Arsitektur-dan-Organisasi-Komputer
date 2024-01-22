@@ -28,6 +28,21 @@ JAWABAN
 - CPU Interconnections : Sejumlah mekanisme komunikasi antara Control Unit, ALU dam Register-register.
 
 4. Gambarkan operasi-operasi komputer dan jelaskan masing-masing fungsi?
+
    A. Pemindahan Data
 Komputer sebagai alat memindahkan data . dengan memindahkan data dari periperal atau saluran komunikasi ke perangkat lainnya. Contoh : Keyboard ke Screen
-https://private-user-images.githubusercontent.com/147358258/298442165-b3344b05-a971-49f6-b61c-48b2ec83c77d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5MzA3ODUsIm5iZiI6MTcwNTkzMDQ4NSwicGF0aCI6Ii8xNDczNTgyNTgvMjk4NDQyMTY1LWIzMzQ0YjA1LWE5NzEtNDlmNi1iNjFjLTQ4YjJlYzgzYzc3ZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyMlQxMzM0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NTAwZGE4YmY0OTI4N2UzODU5MDVjMGM2N2E1NGU0YjYxNGJkNzYzNDFiMjU1YzU2YzgwNGRlZGJjNmI2NzBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.pkjB3x1aAUxddHhaKaZ426w07Zb7gHSJzABxVOrFyAU
+![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/4325c853-5927-442e-82b3-d61de5531cd4)
+
+   B. Penyimpanan Data
+Data dipindahkan dari lingkungan luar ke penyimpanan komputer/baca atau sebaliknya/tulis. Contoh : Internet download ke disk/ harddisk.
+![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/cf58a6c6-a0ac-4dc4-807c-ff985ecb82dc)
+
+   C. Pengolahan Data dari/ke unit penyimpanan
+Operasi-operasi yang pengolahan data, baik dari atau ke penyimpanan. Contoh : Updating bank
+![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/da782b43-69f2-41bf-ac61-5c0ee9930cd1)
+
+   D. Pengolahan Data dari unit penyimpanan ke I/O
+Operasi perpindahan antar tempat penyimpanan dan lingkungan luar. Contoh : Printing Bank Statement.
+![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/dce9294e-6972-4036-bd2d-77ae58d421a8)
+
+
