@@ -31,18 +31,22 @@ JAWABAN
 
    A. Pemindahan Data
 Komputer sebagai alat memindahkan data . dengan memindahkan data dari periperal atau saluran komunikasi ke perangkat lainnya. Contoh : Keyboard ke Screen
+
 ![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/4325c853-5927-442e-82b3-d61de5531cd4)
 
    B. Penyimpanan Data
 Data dipindahkan dari lingkungan luar ke penyimpanan komputer/baca atau sebaliknya/tulis. Contoh : Internet download ke disk/ harddisk.
+
 ![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/cf58a6c6-a0ac-4dc4-807c-ff985ecb82dc)
 
    C. Pengolahan Data dari/ke unit penyimpanan
 Operasi-operasi yang pengolahan data, baik dari atau ke penyimpanan. Contoh : Updating bank
+
 ![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/da782b43-69f2-41bf-ac61-5c0ee9930cd1)
 
    D. Pengolahan Data dari unit penyimpanan ke I/O
 Operasi perpindahan antar tempat penyimpanan dan lingkungan luar. Contoh : Printing Bank Statement.
+
 ![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/dce9294e-6972-4036-bd2d-77ae58d421a8)
 
 
