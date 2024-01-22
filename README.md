@@ -12,8 +12,17 @@ JAWABAN
    ![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/676b6f86-86e6-4a28-ab92-67fa6fb10f84)
    
  Fungsi Struktur Top Level
+ 
  Ada 4 Struktur Utama Internal Komputer
 - Central Processing Unit (CPU): Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
 - Memori Utama: Menyimpan Data
 - I/O: memindahkan data antara komputer dengan lingkungan luarnya.
 - System Interconnection: Beberapa mekanisme komunikasi antara CPU, Memori Utama dan I/O
+
+3. Contoh Struktur Central Processing Unit dan Jelaskan masing-masing fungsi!
+   ![image](https://github.com/LutfiaVirginiaPutri/Tugas-Arsitektur-dan-Organisasi-Komputer/assets/147362416/b4d236f4-5af8-4430-bd14-5f79e08dc7f5)
+
+-Control Unit : Mengontrol operasi CPU dan pada akhirnya mengontrol komputer.
+-Arithmetic and Logic Unit (ALU) : Membentuk fungsi-fungsi pengolahan data komputer.
+-Register : Sebagai Penyimpanan internal bagi CPU
+-CPU Interconnections : Sejumlah mekanisme komunikasi antara Control Unit, ALU dam Register-register.
